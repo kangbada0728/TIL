@@ -137,5 +137,12 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "editor:toggle-comments": [],
+  "obsidian-underline:toggle-link-heading": [],
+  "obsidian-underline:toggle-center-tag": [],
+  "obsidian-underline:toggle-link-block": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-italics": []
 }
