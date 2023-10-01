@@ -15,15 +15,6 @@
       "key": "["
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "editor:delete-paragraph": [],
   "app:show-debug-info": [
     {
