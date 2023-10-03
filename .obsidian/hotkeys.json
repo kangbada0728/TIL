@@ -135,5 +135,23 @@
   "obsidian-underline:toggle-link-block": [],
   "editor:toggle-bold": [],
   "editor:toggle-checklist-status": [],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "]"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": ";"
+    }
+  ]
 }
