@@ -48,20 +48,11 @@
       "key": "E"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl",
+        "Mod"
       ],
       "key": "R"
     }
@@ -152,6 +143,33 @@
         "Ctrl"
       ],
       "key": ";"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }
