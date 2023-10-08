@@ -17,3 +17,7 @@
 
 # exclude hotkey setting
 !.obsidian/hotkeys.json
+
+# exclude attachments folder
+999.\ The\ Others/attachments/
+
