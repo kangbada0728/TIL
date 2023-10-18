@@ -1,5 +1,7 @@
-# 학습노트
+# Today I Learned with Obsidian
 
-Obsidian 을 이용한 학습노트 입니다.
+## Table Of Contents
+
+
 
 
