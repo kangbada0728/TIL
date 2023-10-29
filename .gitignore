@@ -21,3 +21,7 @@
 # exclude attachments folder
 999.\ The\ Others/attachments/
 
+# exclude inbox
+00.\ Inbox/
+
+
