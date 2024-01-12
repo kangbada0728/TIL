@@ -18,10 +18,8 @@
 # exclude hotkey setting
 !.obsidian/hotkeys.json
 
-# exclude attachments folder
-99.\ The\ Others/attachments/
-
-# exclude inbox
+# exclude folder
 00.\ Inbox/
-
+03.\ Life/
+99.\ The\ Others/attachments/
 
