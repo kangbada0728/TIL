@@ -21,5 +21,8 @@
 # exclude folder
 00.\ Inbox/
 03.\ Life/
-99.\ The\ Others/attachments/
 
+# exclude specific extensions
+*.png
+*.jpeg
+*.jpg
