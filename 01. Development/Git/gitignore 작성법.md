@@ -2,7 +2,6 @@
 tags:
   - Git
 ---
-
 ```yaml
 # 폴더 전체 무시하기
 MyFolder/ 
@@ -12,10 +11,6 @@ MyFolder/
 
 # 특정 디렉토리의 파일 무시하기
 MyFolder/file.log
-
-
-
-
 ```
 
 ```yaml
